@@ -1,0 +1,4 @@
+#adding files which are not to be pushed to the repo
+.dockerignore
+*.txt
+Dockerfile
